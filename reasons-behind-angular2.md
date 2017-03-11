@@ -2,7 +2,7 @@
 
 Angular2 is not a usual language upgrade providing new features, fixes for the bugs in the previous version(like Angular 1.5 to 1.6) instead it's a complete re-write of the language from the ground.A complete re-write for the new version may not sounds good, but eventually that is the truth. Even the team knows that, re-write will create concerns on the stability of their language, upgradtion and adoption. But nothing stopped them from re-writting the language, as the reasons behind it more stronger. 
 
-It was simply clever - building the "The frame-work of the future".
+It was simply clever - building the *The frame-work of the future*.
 
 The word "frame-work of the future" may not sounds good to every one as it really was. To get the details clearly we are going to havve a look back and walk around from "Angular1". When Angular1 was introduced in 2010, It address most of the web development issues of that time with his rich features and those made Angular a super heroic frame-work.when they built Angular1 mobile users very less and they were considered only the desktops, they shipped all the code in a single package. Importing 140k(approx size of angular1 mininfied file) size file is not a big deal when you are in desktop, because desktops will have enough memory with proper internet connection. 
 
