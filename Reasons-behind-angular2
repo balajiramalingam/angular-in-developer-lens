@@ -1,0 +1,15 @@
+Reasons behind Angular2? 
+
+Angular2 is not a usual language upgrade providing new features and fixes for the bugs in the previous version of the language(like Angular 1.5 to 1.6) instead it's a complete re-write of the language from the ground.A complete re-write for the new version may not sounds good,but eventually that is the truth. Even the team knows that, re-write will create concerns on the stability of their language and in upgradtion, adoption of the new language.But nothing stopped the angular team from re-writting the language, as the reasons behind it more stronger than the cons. 
+
+The reason was simply clever - "The frame-work/language of the future".
+
+The word "Language of the future" may not sounds good to every one as it really was. To get the details clearly we are going to look back and have a walk around from "Angular1". When Angular1 was introduced in 2010, It address most of the web development issues of that time with his rich features and it mades Angular a super heroic frame-work.when they built Angular1 they were considered only the desktops and they shipped all the code in a single package,the size of whole package is around 140k and importing 140k size file is not a big deal you are in desktop, because you will have enough memory in desktops with proper internet connection. 
+
+But the web has been developed enormously in last 5 to 6 years and today the usage of mobile is very high, so when developing anything we have to keep eye on mobile also. In mobiles, memory is very limited, internet connectivity also poor.So importing each and every single bit is more important there and also to provide better user experience we have to request resources on demand basis(Lazy- loading). As in Angularjs1 everything bundled in a single package, we have to download all the library whether its required for the application/not and we don't have frame-work support for loading resources on-demand(external plugins like "OCLazyLoad" supports lazy loading angularjs).Today technology is even further moving faster towards devices which even doesn't have a browser, Like IoT's and BOTS.
+
+In other way if we look, "Web component" is going to be the standard for future of the web development. Even Angularjs supports component based approach from 1.5, it's not fully compiled with W3C standards for web components.
+
+
+So the team decides to built a new version of framework with following things in mind
+//TODO: need to add content
