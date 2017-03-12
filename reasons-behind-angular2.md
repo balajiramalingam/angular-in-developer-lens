@@ -1,4 +1,4 @@
-# Reasons behind Angular2? 
+# Motivations of Angular2? 
 
 Angular2 is not a usual language upgrade providing new features, fixes for the bugs in the previous version(like Angular 1.5 to 1.6) instead it's a complete re-write of the language from the ground.A complete re-write for the new version may not sounds good, but eventually that is the truth. Even the team knows that, re-write will create concerns on the stability of their language, upgradtion and adoption. But nothing stopped them from re-writting the language, as the reasons behind it more stronger. 
 
