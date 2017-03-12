@@ -31,8 +31,4 @@ The features in angular like "Dependency Injection" are very great and common fo
 Due to the extensive features and different style of syntax Angularjs is not easy to learn. E.g. "ng-click =(...)" instead of native click event bind syntax "click = (...)". Similar to this developer has to remember many custom directives and syntax 
 which specific to angular for developing apps.
 
-
-All the above things are pushed the team to write the language from scratch. With experiences, knowledge from Angularjs
-the team creates a new version with design goal of "*The frame-work of the future*".
-
-*The frame-work of the future* meant, In future its not going to only Desktop, Mobiles but we are going to live with more connected devices like IoT's, automated cars and BOT's. So users should able to code onces and run every where.Devices like IoT's don't have browsers so they written frame-work in such way that, to run the code memory is only required nothing else going to be limitation(like compiler, browser).
+All the above things are pushed the team to write the language from scratch. 
